@@ -1,0 +1,171 @@
+.todoLabel
+{
+	-fx-text-fill : white;
+	-fx-font-size : 30px;
+	-fx-font-weight : bold;
+}
+.motive
+{
+	-fx-font-size :14px;
+	-fx-font-weight : bold;
+	-fx-text-fill : white;
+}
+.scenebox
+{
+	-fx-background-color: #000000;
+	-fx-border-color : #000000;
+}
+.vbox3
+{
+	-fx-background-color : #2E2D2D;
+	-fx-background-radius : 2px;
+}
+.tdl
+{
+	-fx-text-fill : white;
+	-fx-font-size : 18px;
+	-fx-font-weight : bold;
+}
+.tdf
+{
+	-fx-font-size : 15px;
+	-fx-text-fill : black;
+}
+.addBtn
+{
+	-fx-background-color : #1FC453;
+	-fx-text-fill :white;
+	-fx-font-size : 15px;
+	-fx-background-radius : 2px;
+	-fx-padding : 10px 18px;
+}
+.todoTaskBtn
+{
+	-fx-background-color : #1FC453;
+	-fx-text-fill :white;
+	-fx-font-size : 15px;
+	-fx-background-radius : 2px;
+	-fx-padding : 11px 18px;
+}
+.completeBtn
+{
+	-fx-background-color : #4D4D4D;
+	-fx-text-fill :white;
+	-fx-font-size : 15px;
+	-fx-background-radius : 2px;
+	-fx-padding : 11px 18px;
+}
+.line
+{
+	-fx-background-color : gray;
+	-fx-border-color : gray;
+	-fx-border-width : 0.3px;
+}
+.task
+{
+	-fx-text-fill : #1FC453;
+	-fx-font-size : 19px;
+	-fx-font-weight : bold;
+}
+.desc
+{
+	-fx-text-fill : #8F8B8B;
+	-fx-font-size : 13px;
+	-fx-font-weight : normal;
+}
+.scroll-bar:vertical
+{
+	-fx-pref-width : 2px;
+}
+.loginLabel
+{
+	-fx-text-fill : white;
+	-fx-font-size : 33px;
+	-fx-font-weight : bold;
+}
+.loginField
+{
+	-fx-prompt-text-fill : white;
+	-fx-font-size : 16px;
+	-fx-text-fill : white;
+	-fx-background-color : transparent;
+	-fx-background-radius : 8px;
+	-fx-border-color: rgba(255,255,255,0.2);
+}
+.loginBox
+{
+    -fx-border-color : rgba(255,255,255,0.2);
+	-fx-background-radius : 5px;
+}
+.todoBtn
+{
+	-fx-background-color : white;
+	-fx-text-fill : #000000;
+	-fx-font-size : 15px;
+	-fx-background-radius :6px;
+	-fx-padding : 10px 128px;
+}
+.forgotPassword
+{
+	-fx-background-color : transparent;
+	-fx-border-color : transparent;
+	-fx-text-fill : #969696;
+	-fx-font-size : 13px;
+	-fx-cursor : hand;
+}
+.forgotPassword:hover
+{
+	-fx-text-fill : #DEDEDE;
+	-fx-font-size : 13px;
+}
+.resetPasswordScene
+{
+	-fx-background-color: #000000;
+}
+.signUpFiedld
+{
+	-fx-prompt-text-fill : white;
+	-fx-font-size : 14px;
+	-fx-text-fill : white;
+	-fx-background-color : transparent;
+	-fx-background-radius : 8px;
+	-fx-border-color: rgba(255,255,255,0.2);
+}
+.signUpBtn
+{
+	-fx-background-color : #1254B5;
+	-fx-border-color : rgba(255,255,255,0.2);
+	-fx-text-fill : white;
+	-fx-border-radius : 6px;
+	-fx-padding : 10px 100px;
+}
+.signInBtn
+{
+	-fx-background-color : transparent;
+	-fx-border-color : transparent;
+	-fx-text-fill : #969696;
+	-fx-font-size : 12px;
+	-fx-cursor : hand;
+}
+.signInBtn:hover
+{
+	-fx-text-fill : #DEDEDE;
+}
+.navigation
+{
+	-fx-background-color : transparent;
+	-fx-border-color : transparent;
+}
+.userDetails
+{
+	-fx-background-color : transparent;
+	-fx-border-color : transparent;
+}
+.profile
+{
+	-fx-background-color : #D3D3D3;
+	-fx-borderr-color : transparent;
+	-fx-padding : 10px 80px;
+	-fx-text-fill : white;
+	-fx-font-szie :12px;
+}
